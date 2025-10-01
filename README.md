@@ -1,4 +1,4 @@
-### Hello, this is Mallory. o/
+## Hello, this is Mallory. o/
 # Introduction
 ## Used Language
 - Java
